@@ -9,4 +9,7 @@ allRoutes la ou ce trouve toute les routes du site
 
 index.html :
 le header et le footer
-bootstrap et aos
+
+installation bootstrap
+customisation de bootstrap avec sass
+installation sass et \_custom
